@@ -1,6 +1,6 @@
 const BLOG = {
   title: process.env.TITLE,
-  author: process.env.AUTHOR,
+  author: 'js xu',
   email: process.env.EMAIL,
   link: process.env.LINK,
   description: process.env.DESC,
